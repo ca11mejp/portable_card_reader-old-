@@ -1,2 +1,2 @@
-# portable_card_reader
+# portable_rfid_card_reader
 RFID Card reader portable
